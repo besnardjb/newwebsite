@@ -1,6 +1,5 @@
 use std::collections::HashMap;
 
-use chrono::Utc;
 use egui::Align2;
 use egui::Color32;
 use egui_commonmark::*;
